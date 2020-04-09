@@ -1,0 +1,6 @@
+# Credits
+
+The template is based on a template design from TEMPLATED (templated.co), Theory (https://templated.co/theory).  
+
+The background image is courtesy of Unsplash (https://unsplash.com); author of the image is Raphael Andreas (https://unsplash.com/photos/3cwvFD-YPtk).
+
