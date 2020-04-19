@@ -2942,7 +2942,8 @@
 
 	#banner {
 		padding: 12em 0 10em 0;
-		background-image: url('../../images/KELLEPICKS_robot-2256814_1920_pixabay.jpg');
+		/*background-image: url('../../images/KELLEPICKS_robot-2256814_1920_pixabay.jpg');*/
+		background-image: url('../../images/kalhh_laptop-1104066_1280_pixabay.jpg');
 		background-size: cover;
 		background-attachment: fixed;
 		background-repeat: no-repeat;
@@ -2951,13 +2952,39 @@
 		border-top: 0.5em solid #5385c1;
 	}
 
+		/*added*/
+		#banner div{
+			position: relative;
+			left: 0;
+			top: 0;
+			width:100%;
+			height: 100%;
+			/*background: rgba(83, 132, 193, 0.75);*/
+		}
+
+		/*changed*/
 		#banner h1 {
 			font-size: 3.5em;
-			font-weight: 100;
-			color: #fff;
+			font-weight: 750;
+			color: white;
 			line-height: 1em;
 			margin: 0 0 0.5em 0;
 			padding: 0;
+			text-shadow: -2px -2px 0 #000;
+		}
+
+		/*added*/
+		#banner h2 {
+			color: white;
+			font-weight: 750;
+			text-shadow: -2px -2px 0 #000;
+		}
+
+		/*added*/
+		#banner h3 {
+			color: white;
+			font-weight: 750;
+			text-shadow: -2px -2px 0 #000;
 		}
 
 		#banner p {
